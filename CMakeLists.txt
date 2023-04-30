@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.25)
+project(Mastering_Critical_SKILLS)
+
+set(CMAKE_CXX_STANDARD 17)
+add_executable(ex1 section_7_loops/for_loops_hw_medium_to_hard/01.cpp)
+add_executable(ex2 section_7_loops/for_loops_hw_medium_to_hard/02.cpp)
+add_executable(ex3 section_7_loops/for_loops_hw_medium_to_hard/03.cpp)
+add_executable(ex4 section_7_loops/for_loops_hw_medium_to_hard/04.cpp)
+add_executable(ex5 section_7_loops/for_loops_hw_medium_to_hard/05.cpp)
+add_executable(ex6 section_7_loops/for_loops_hw_medium_to_hard/06.cpp)
